@@ -1,0 +1,6 @@
+{
+  "name": "The AgeWell Blueprint",
+  "description": "An expert-led private community created by Denise Forner for peptide education, protocol discussions, hormone optimization, GLP-1 support, longevity, and healthy aging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
